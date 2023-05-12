@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### GitHub Stats :zap:
+<div>
+<a href="https://github.com/dev2devtech">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2devtech&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev2devtech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
